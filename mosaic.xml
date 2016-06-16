@@ -26,6 +26,7 @@
             body {
                 background-color: __UP_BG_COLOR__;
                 padding: .3em;
+                text-align: center;
             }
             img {
                 border: 0;
